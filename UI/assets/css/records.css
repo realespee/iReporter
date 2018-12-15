@@ -1,0 +1,16 @@
+section{
+    overflow: hidden;
+}
+section .intro{
+    text-align: center;
+    color: #0c9898;
+    font-size: 20px;
+    width: 100%;
+    border-bottom: 1px solid gray;
+}
+section p{
+    padding: 10px
+}
+article{
+    width: 40%
+}
